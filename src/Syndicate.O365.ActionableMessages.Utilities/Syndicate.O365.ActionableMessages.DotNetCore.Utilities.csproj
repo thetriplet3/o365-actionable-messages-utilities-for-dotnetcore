@@ -9,12 +9,12 @@
     <Authors>thetriplet3</Authors>
     <Version>2.0.1</Version>
     <Copyright>Copyright (c) Microsoft Corporation. All rights reserved.</Copyright>
-    <PackageProjectUrl>https://github.com/OfficeDev/o365-actionable-messages-utilities-for-dotnet</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/OfficeDev/o365-actionable-messages-utilities-for-dotnet</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/thetriplet3/o365-actionable-messages-utilities-for-dotnetcore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/thetriplet3/o365-actionable-messages-utilities-for-dotnetcore</RepositoryUrl>
     <RepositoryType>GitHub</RepositoryType>
     <PackageLicenseUrl>https://github.com/OfficeDev/o365-actionable-messages-utilities-for-dotnet/blob/master/LICENSE</PackageLicenseUrl>
     <PackageIconUrl>https://github.com/OfficeDev/o365-actionable-messages-utilities-for-dotnet/blob/master/doc/icons/oam.ico?raw=true</PackageIconUrl>
-    <PackageTags>Office O365 ActionableMessage OAM Email</PackageTags>
+    <PackageTags>Office O365 ActionableMessage OAM Email dotnetcore core</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

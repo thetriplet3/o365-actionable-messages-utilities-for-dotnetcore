@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{588E1233-7D80-42F4-98B7-3890A6580BCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{266DCB29-10B5-4426-AFC9-B29ED36B5405}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Syndicate.O365.ActionableMessages.DotNetCore.Utilities", "src\Syndicate.O365.ActionableMessages.Utilities\Syndicate.O365.ActionableMessages.DotNetCore.Utilities.csproj", "{E5676C4C-0193-4E5F-B62B-7DB765DF34F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Syndicate.O365.ActionableMessages.DotNetCore.Utilities.Tests", "test\Syndicate.O365.ActionableMessages.Utilities.Tests\Syndicate.O365.ActionableMessages.DotNetCore.Utilities.Tests.csproj", "{BFE76A63-9F9F-421D-A8FE-439099172751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5676C4C-0193-4E5F-B62B-7DB765DF34F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5676C4C-0193-4E5F-B62B-7DB765DF34F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5676C4C-0193-4E5F-B62B-7DB765DF34F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5676C4C-0193-4E5F-B62B-7DB765DF34F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE76A63-9F9F-421D-A8FE-439099172751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE76A63-9F9F-421D-A8FE-439099172751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE76A63-9F9F-421D-A8FE-439099172751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE76A63-9F9F-421D-A8FE-439099172751}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E5676C4C-0193-4E5F-B62B-7DB765DF34F6} = {588E1233-7D80-42F4-98B7-3890A6580BCE}
+		{BFE76A63-9F9F-421D-A8FE-439099172751} = {266DCB29-10B5-4426-AFC9-B29ED36B5405}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14EB61FC-06A6-4887-A0EB-A4F383894A48}
+	EndGlobalSection
+EndGlobal
