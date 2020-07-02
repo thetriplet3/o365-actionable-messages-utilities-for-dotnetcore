@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Microsoft.O365.ActionableMessages.Utilities\Microsoft.O365.ActionableMessages.Utilities.csproj" />
+    <ProjectReference Include="..\..\src\Microsoft.O365.ActionableMessages.Utilities\Microsoft.O365.ActionableMessages.DotNetCore.Utilities.csproj" />
   </ItemGroup>
 
   <ItemGroup>
